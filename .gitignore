@@ -1,4 +1,6 @@
 models/
+!models/*.dvc
+wandb/
 __pycache__/
 logs/
 multirun/

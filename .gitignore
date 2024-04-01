@@ -1,0 +1,7 @@
+models/
+__pycache__/
+logs/
+multirun/
+outputs/
+wandb/
+re

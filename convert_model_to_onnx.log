@@ -1,0 +1,19 @@
+[2024-04-02 07:54:47,184][__main__][INFO] - Loading pre-trained model from: /home/frauke/Tutorials/mlops_basics/models/epoch=2-step=201.ckpt
+[2024-04-02 07:54:49,017][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmp_mx1gm0n
+[2024-04-02 07:54:49,017][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmp_mx1gm0n/_remote_module_non_scriptable.py
+[2024-04-02 07:55:04,806][__main__][INFO] - Converting the model into ONNX format
+[2024-04-02 07:55:43,627][__main__][INFO] - Loading pre-trained model from: /home/frauke/Tutorials/mlops_basics/models/epoch=2-step=201.ckpt
+[2024-04-02 07:55:45,453][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpsnon79ri
+[2024-04-02 07:55:45,453][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpsnon79ri/_remote_module_non_scriptable.py
+[2024-04-02 07:57:17,572][__main__][INFO] - Loading pre-trained model from: /home/frauke/Tutorials/mlops_basics/models/epoch=2-step=201.ckpt
+[2024-04-02 07:57:19,398][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpng9l05e7
+[2024-04-02 07:57:19,398][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpng9l05e7/_remote_module_non_scriptable.py
+[2024-04-02 07:57:37,305][__main__][INFO] - Loading pre-trained model from: /home/frauke/Tutorials/mlops_basics/models/epoch=2-step=201.ckpt
+[2024-04-02 07:57:37,555][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpqt7n_5wc
+[2024-04-02 07:57:37,555][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpqt7n_5wc/_remote_module_non_scriptable.py
+[2024-04-02 07:57:51,851][__main__][INFO] - Converting the model into ONNX format
+[2024-04-02 08:02:19,075][__main__][INFO] - Loading pre-trained model from: /home/frauke/Tutorials/mlops_basics/models/epoch=2-step=201.ckpt
+[2024-04-02 08:02:20,903][torch.distributed.nn.jit.instantiator][INFO] - Created a temporary directory at /tmp/tmpzsw_p4oy
+[2024-04-02 08:02:20,903][torch.distributed.nn.jit.instantiator][INFO] - Writing /tmp/tmpzsw_p4oy/_remote_module_non_scriptable.py
+[2024-04-02 08:02:34,872][__main__][INFO] - Converting the model into ONNX format
+[2024-04-02 08:02:35,183][__main__][INFO] - Model converted successfully. ONNX format model is at: /home/frauke/Tutorials/mlops_basics/models/model.onnx

@@ -1,4 +1,4 @@
-models/
+models/
 !models/*.dvc
 wandb/
 __pycache__/

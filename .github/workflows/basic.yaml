@@ -2,6 +2,7 @@ name: GitHub Actions Basic Flow
 on: [push]
 jobs:
   Basic-workflow:
+  runs-on: ubuntu-latest
   steps:
     - name: Basic Information
       run: |

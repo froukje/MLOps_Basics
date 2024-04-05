@@ -10,7 +10,7 @@ jobs:
         working-directory: ./week_6_github_actions
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
       - name: Build container

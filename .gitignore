@@ -7,3 +7,4 @@ multirun/
 outputs/
 wandb/
 re
+creds.json

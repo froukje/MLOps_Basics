@@ -33,6 +33,7 @@ isort = "^5.13.2"
 
 [tool.poetry.group.dev.dependencies]
 ipdb = "^0.13.13"
+ipykernel = "^6.29.4"
 
 [[tool.poetry.source]]
 name = "torch"

@@ -1,4 +1,12 @@
 [core]
-    remote = storage
+    remote = myremote
 ['remote "storage"']
     url = gdrive://1LWnLHric6xXZk6g51eppbGWFZYG_5yF4
+    gdrive_service_account_json_file_path = ../creds.json
+['remote "myremote"']
+    url = gdrive://1LWnLHric6xXZk6g51eppbGWFZYG_5yF4
+    gdrive_acknowledge_abuse = true
+    gdrive_service_account_json_file_path = ../creds.json
+    gdrive_user_credentials_file = ../creds.json
+    gdrive_use_service_account = true
+    gdrive_service_account_user_email = falbrechtg@gmail.com
